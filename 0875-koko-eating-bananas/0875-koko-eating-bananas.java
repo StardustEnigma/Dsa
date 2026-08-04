@@ -1,41 +1,41 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
-        int low=1;
-        int high=maxArray(piles);
-        int minAns=high;
-        while(low<=high){
-            int mid=low+(high-low)/2;
-            boolean valid=isValid(piles,h,mid);
-            
-            if(valid){
-                high=mid-1;
-                minAns=Math.min(minAns,mid);
+        int left=1;
+        int right=max(piles);
+        int k=Integer.MAX_VALUE;
+        while(left <= right){
+            int mid=left+(right-left)/2;
+
+            long totalHours=totalHours(piles,mid);
+
+            if(totalHours <= h){
+                k=mid;
+                right=mid-1;
+
             }
             else{
-                low=mid+1;
-            }
+                left=mid+1;
+            } 
         }
-        return minAns;       
+        return k;
     }
-    public boolean isValid(int[] piles,int h,int mid){
-        long hours=0;
-        for(int i=0;i<piles.length;i++){
-            hours=hours +(piles[i]+(long)mid-1)/mid;
-        }
+    public long totalHours(int[] piles,int mid){
+        long total=0;
 
-        if(hours>h){
-            return false;
+        for(int i=0;i<piles.length;i++){
+            total+= (piles[i]+mid-1)/mid;
         }
-        return true;
+        return total;
     }
 
-    public int maxArray(int [] piles){
-        int max=piles[0];
+    public int max(int[] piles){
+        int maxInt=piles[0];
+
         for(int i=0;i<piles.length;i++){
-            if(piles[i]>max){
-                max=piles[i];
+            if(maxInt < piles[i]){
+                maxInt=piles[i];
             }
         }
-        return max;
+        return maxInt;
     }
 }
