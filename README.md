@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/StardustEnigma/Dsa/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StardustEnigma/Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/StardustEnigma/Dsa/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StardustEnigma/Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
