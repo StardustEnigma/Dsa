@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/StardustEnigma/Dsa/tree/master/0012-integer-to-roman) |
 | [0709-to-lower-case](https://github.com/StardustEnigma/Dsa/tree/master/0709-to-lower-case) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/StardustEnigma/Dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Simulation
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/StardustEnigma/Dsa/tree/master/0319-bulb-switcher) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/StardustEnigma/Dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
