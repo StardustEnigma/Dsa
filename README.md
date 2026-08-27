@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/StardustEnigma/Dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/StardustEnigma/Dsa/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/StardustEnigma/Dsa/tree/master/0319-bulb-switcher) |
+| [0728-self-dividing-numbers](https://github.com/StardustEnigma/Dsa/tree/master/0728-self-dividing-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/StardustEnigma/Dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/StardustEnigma/Dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
