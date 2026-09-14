@@ -110,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/StardustEnigma/Dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/StardustEnigma/Dsa/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
