@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/StardustEnigma/Dsa/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/StardustEnigma/Dsa/tree/master/0319-bulb-switcher) |
 | [0728-self-dividing-numbers](https://github.com/StardustEnigma/Dsa/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/StardustEnigma/Dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/StardustEnigma/Dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1148-article-views-i](https://github.com/StardustEnigma/Dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/StardustEnigma/Dsa/tree/master/1683-invalid-tweets) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
