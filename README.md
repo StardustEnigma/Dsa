@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
 | [0074-search-a-2d-matrix](https://github.com/StardustEnigma/Dsa/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/StardustEnigma/Dsa/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/StardustEnigma/Dsa/tree/master/0216-combination-sum-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -128,5 +129,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/StardustEnigma/Dsa/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
