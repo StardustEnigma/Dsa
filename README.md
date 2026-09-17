@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/StardustEnigma/Dsa/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/StardustEnigma/Dsa/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/StardustEnigma/Dsa/tree/master/1683-invalid-tweets) |
 ## Geometry
