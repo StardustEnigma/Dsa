@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/StardustEnigma/Dsa/tree/master/0197-rising-temperature) |
 | [1148-article-views-i](https://github.com/StardustEnigma/Dsa/tree/master/1148-article-views-i) |
+| [1661-average-time-of-process-per-machine](https://github.com/StardustEnigma/Dsa/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/StardustEnigma/Dsa/tree/master/1683-invalid-tweets) |
 ## Geometry
 |  |
