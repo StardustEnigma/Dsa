@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/StardustEnigma/Dsa/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/StardustEnigma/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/StardustEnigma/Dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/StardustEnigma/Dsa/tree/master/0012-integer-to-roman) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0709-to-lower-case](https://github.com/StardustEnigma/Dsa/tree/master/0709-to-lower-case) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/StardustEnigma/Dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Simulation
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
