@@ -110,10 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/StardustEnigma/Dsa/tree/master/0709-to-lower-case) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/StardustEnigma/Dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/StardustEnigma/Dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
