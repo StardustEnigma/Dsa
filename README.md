@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0835-image-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
+| [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StardustEnigma/Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/StardustEnigma/Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/StardustEnigma/Dsa/tree/master/2643-row-with-maximum-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/StardustEnigma/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0835-image-overlap) |
+| [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 | [1901-find-a-peak-element-ii](https://github.com/StardustEnigma/Dsa/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/StardustEnigma/Dsa/tree/master/2643-row-with-maximum-ones) |
 ## Newton's Method
@@ -151,10 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/StardustEnigma/Dsa/tree/master/0216-combination-sum-iii) |
+| [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
+| [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/StardustEnigma/Dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/StardustEnigma/Dsa/tree/master/0052-n-queens-ii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
