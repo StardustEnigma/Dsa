@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/StardustEnigma/Dsa/tree/master/0051-n-queens) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/StardustEnigma/Dsa/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/StardustEnigma/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/StardustEnigma/Dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/StardustEnigma/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0835-image-overlap) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/StardustEnigma/Dsa/tree/master/0051-n-queens) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/StardustEnigma/Dsa/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/StardustEnigma/Dsa/tree/master/0052-n-queens-ii) |
 ## Hamiltonian Path
@@ -189,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/StardustEnigma/Dsa/tree/master/1042-flower-planting-with-no-adjacent) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
