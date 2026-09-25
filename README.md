@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/StardustEnigma/Dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/StardustEnigma/Dsa/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0709-to-lower-case](https://github.com/StardustEnigma/Dsa/tree/master/0709-to-lower-case) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
