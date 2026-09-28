@@ -1,110 +1,151 @@
-class Node {
+class Node{
     int val;
+    Node prev;
     Node next;
 
     Node(int val){
         this.val=val;
+        this.prev=null;
         this.next=null;
     }
 }
-
 class MyLinkedList {
     Node head;
+    Node tail;
     public MyLinkedList() {
         head=null;
     }
     
     public int get(int index) {
-        Node temp=head;
-        int count=0;
+        Node temp = head;
 
-        while(temp!= null){
-            if(count == index){
+        while(temp != null){
+            if(index == 0){
                 return temp.val;
             }
-            temp= temp.next;
-            count++;
+            temp = temp.next;
+            index--;
         }
-
         return -1;
+        
     }
     
     public void addAtHead(int val) {
-        Node temp=new Node(val);
-        temp.next=head;
-        head=temp;
+        Node newNode =new Node(val);
+        if(head == null){
+            head=newNode;
+            return;
+        }
+        newNode.next=head;
+        head.prev=newNode;
+        head=newNode;
     }
     
     public void addAtTail(int val) {
-        Node newNode=new Node(val);
-        Node temp = head;
+        Node newNode = new Node(val);
 
-        if (head == null) {
-        head = newNode;
-        return;
-    }
-        while(temp.next != null){
-            temp= temp.next;
+        if(head == null){
+            head=newNode;
+            return;
         }
+        Node temp=head;
 
+        while(temp.next != null){
+            temp = temp.next;
+        }
         temp.next=newNode;
-        newNode.next=null;
+        newNode.prev=temp;
     }
     
     public void addAtIndex(int index, int val) {
-        Node temp= head;
-        int count=0;
-        Node newNode= new Node(val);
-        while(temp != null){
-            temp= temp.next;
-            count++;
-        }
-        if(index==count){
-            addAtTail(val);
+        if(index <0){
             return;
         }
-        if(index==0){
+        
+        if(index == 0){
             addAtHead(val);
             return;
         }
-        if (index > count) {
-        return;
-    }
+        Node temp= head;
+        int count=0;
+        while(temp != null){
+            count++;
+            temp = temp.next;
+            
+        }
+        if(count == index){
+            addAtTail(val);
+            return;
+        }
+        if(index > count ){
+            return ;
+        }
         temp=head;
-        while(index != 1){
-           temp=temp.next;
+        Node newNode= new Node(val);
+        while(temp != null){
+            if(index == 1){
+                newNode.next=temp.next;
+                if(temp.next != null){
+                    temp.next.prev=newNode;
+                }
+                newNode.prev=temp;
+                temp.next=newNode;
+                return;
+            }
+            temp = temp.next;
             index--;
         }
-        newNode.next=temp.next;
-        temp.next=newNode;
-
+        
     }
     
     public void deleteAtIndex(int index) {
-    Node temp = head;
-    int count = 0;
-    while (temp != null) {
-        temp = temp.next;
-        count++;
-    }
-
-    if (index < 0 || index >= count) {
+        if(index < 0){
+            return;
+        }
+        if(head == null){
+            return;
+        }
+        if (head.next == null && index == 0) {
+        head = null;
         return;
     }
+        int count=0;
+        Node temp= head;
 
-    if (index == 0) {
-        head = head.next;
-        return;
-    }
+        while(temp != null){
+            count ++;
+            temp = temp.next;
+        }
+        temp =head;
 
-    temp = head;
-
-    while (index != 1) {
-        temp = temp.next;
-        index--;
-    }
-
-    temp.next = temp.next.next;
+        if((count-1) == index){
+            while(temp.next.next != null){
+                temp = temp.next;
+            }
+            temp.next=null;
+            return;
+        }
+        if( index == 0){
+            if( head == null){
+                return;
+            }
+            head= head.next;
+            if(head != null)
+                head.prev=null;
+            return;
+        }
+        temp= head;
+        while(temp != null){
+            if( index == 1){
+                if (temp.next == null) return;
+                temp.next =temp.next.next;
+                if (temp.next != null)
+                temp.next.prev=temp;
+                return;
+            }
+            temp= temp.next;
+            index--;
+        }
     }
 }
 
