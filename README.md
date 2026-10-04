@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StardustEnigma/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/StardustEnigma/Dsa/tree/master/0148-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
