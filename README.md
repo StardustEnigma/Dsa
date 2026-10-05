@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/StardustEnigma/Dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
+| [0160-intersection-of-two-linked-lists](https://github.com/StardustEnigma/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/StardustEnigma/Dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StardustEnigma/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/StardustEnigma/Dsa/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/StardustEnigma/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/StardustEnigma/Dsa/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StardustEnigma/Dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/StardustEnigma/Dsa/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/StardustEnigma/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/StardustEnigma/Dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
