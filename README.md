@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/StardustEnigma/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/StardustEnigma/Dsa/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0856-score-of-parentheses) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/StardustEnigma/Dsa/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0301-remove-invalid-parentheses) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/StardustEnigma/Dsa/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Theory
 |  |
