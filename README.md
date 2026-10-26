@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/StardustEnigma/Dsa/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/StardustEnigma/Dsa/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/StardustEnigma/Dsa/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/StardustEnigma/Dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/StardustEnigma/Dsa/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/StardustEnigma/Dsa/tree/master/0319-bulb-switcher) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/StardustEnigma/Dsa/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/StardustEnigma/Dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/StardustEnigma/Dsa/tree/master/0137-single-number-ii) |
