@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
 | [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/StardustEnigma/Dsa/tree/master/1254-number-of-closed-islands) |
+| [1310-xor-queries-of-a-subarray](https://github.com/StardustEnigma/Dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/StardustEnigma/Dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/StardustEnigma/Dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
+| [1310-xor-queries-of-a-subarray](https://github.com/StardustEnigma/Dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/StardustEnigma/Dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/StardustEnigma/Dsa/tree/master/0260-single-number-iii) |
 | [0461-hamming-distance](https://github.com/StardustEnigma/Dsa/tree/master/0461-hamming-distance) |
 | [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
+| [1310-xor-queries-of-a-subarray](https://github.com/StardustEnigma/Dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/StardustEnigma/Dsa/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/StardustEnigma/Dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/StardustEnigma/Dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
