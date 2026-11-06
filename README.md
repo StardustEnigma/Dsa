@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/StardustEnigma/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/StardustEnigma/Dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/StardustEnigma/Dsa/tree/master/2643-row-with-maximum-ones) |
+| [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/StardustEnigma/Dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/StardustEnigma/Dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/StardustEnigma/Dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/StardustEnigma/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/StardustEnigma/Dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/StardustEnigma/Dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/StardustEnigma/Dsa/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/StardustEnigma/Dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/StardustEnigma/Dsa/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/StardustEnigma/Dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/StardustEnigma/Dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/StardustEnigma/Dsa/tree/master/3731-find-missing-elements) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/StardustEnigma/Dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/StardustEnigma/Dsa/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Database
