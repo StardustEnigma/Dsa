@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/StardustEnigma/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StardustEnigma/Dsa/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/StardustEnigma/Dsa/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/StardustEnigma/Dsa/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/StardustEnigma/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/StardustEnigma/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/StardustEnigma/Dsa/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/StardustEnigma/Dsa/tree/master/0678-valid-parenthesis-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/StardustEnigma/Dsa/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/StardustEnigma/Dsa/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/StardustEnigma/Dsa/tree/master/0678-valid-parenthesis-string) |
