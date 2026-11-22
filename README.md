@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/StardustEnigma/Dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
 | [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/StardustEnigma/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/StardustEnigma/Dsa/tree/master/1254-number-of-closed-islands) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/StardustEnigma/Dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/StardustEnigma/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
+| [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/StardustEnigma/Dsa/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StardustEnigma/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/StardustEnigma/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/StardustEnigma/Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
