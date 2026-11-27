@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StardustEnigma/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/StardustEnigma/Dsa/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/StardustEnigma/Dsa/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/StardustEnigma/Dsa/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/StardustEnigma/Dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/StardustEnigma/Dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/StardustEnigma/Dsa/tree/master/0142-linked-list-cycle-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0032-longest-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/StardustEnigma/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/StardustEnigma/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/StardustEnigma/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0301-remove-invalid-parentheses) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StardustEnigma/Dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/StardustEnigma/Dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/StardustEnigma/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/StardustEnigma/Dsa/tree/master/1004-max-consecutive-ones-iii) |
