@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/StardustEnigma/Dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/StardustEnigma/Dsa/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/StardustEnigma/Dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0496-next-greater-element-i](https://github.com/StardustEnigma/Dsa/tree/master/0496-next-greater-element-i) |
 | [0835-image-overlap](https://github.com/StardustEnigma/Dsa/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/StardustEnigma/Dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/StardustEnigma/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/StardustEnigma/Dsa/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/StardustEnigma/Dsa/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/StardustEnigma/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/StardustEnigma/Dsa/tree/master/1248-count-number-of-nice-subarrays) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0032-longest-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/StardustEnigma/Dsa/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/StardustEnigma/Dsa/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/StardustEnigma/Dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/StardustEnigma/Dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/StardustEnigma/Dsa/tree/master/0496-next-greater-element-i) |
 | [2487-remove-nodes-from-linked-list](https://github.com/StardustEnigma/Dsa/tree/master/2487-remove-nodes-from-linked-list) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/StardustEnigma/Dsa/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Shortest Path
