@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/StardustEnigma/Dsa/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/StardustEnigma/Dsa/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/StardustEnigma/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0980-unique-paths-iii](https://github.com/StardustEnigma/Dsa/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/StardustEnigma/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/StardustEnigma/Dsa/tree/master/1254-number-of-closed-islands) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/StardustEnigma/Dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/StardustEnigma/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/StardustEnigma/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/StardustEnigma/Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/StardustEnigma/Dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2747-count-zero-request-servers](https://github.com/StardustEnigma/Dsa/tree/master/2747-count-zero-request-servers) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/StardustEnigma/Dsa/tree/master/0410-split-array-largest-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/StardustEnigma/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/StardustEnigma/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/StardustEnigma/Dsa/tree/master/1310-xor-queries-of-a-subarray) |
 | [1352-product-of-the-last-k-numbers](https://github.com/StardustEnigma/Dsa/tree/master/1352-product-of-the-last-k-numbers) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/StardustEnigma/Dsa/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/StardustEnigma/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/StardustEnigma/Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/StardustEnigma/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/StardustEnigma/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/StardustEnigma/Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/StardustEnigma/Dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
